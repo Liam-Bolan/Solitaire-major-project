@@ -28,5 +28,10 @@ namespace Solitaire_major_project
             SolitaireGame SG = new SolitaireGame();
             SG.Show();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

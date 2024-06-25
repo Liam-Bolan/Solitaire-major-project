@@ -19,6 +19,16 @@ namespace Solitaire_major_project
 
         private void SolitaireGame_Load(object sender, EventArgs e)
         {
+            
+            pictureBox1.Image = Properties.Resources.ace_of_spades;
+            pictureBox1.Width = 160;
+            pictureBox1.Height = 220;
+            pictureBox1.Location = new Point(25, 25);
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }
