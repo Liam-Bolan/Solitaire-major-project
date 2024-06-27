@@ -11,6 +11,8 @@ namespace Solitaire_major_project
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
+
         [STAThread]
         static void Main()
         {
